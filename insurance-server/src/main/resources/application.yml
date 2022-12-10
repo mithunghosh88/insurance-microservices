@@ -6,4 +6,4 @@ eureka:
     fetch-registry: false
 spring:
   application:
-    name: SPRINGBOOT-SERVER
+    name: INSURANCE-SERVER
